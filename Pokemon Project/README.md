@@ -1,3 +1,5 @@
+Kaggle Link: https://www.kaggle.com/datasets/hamzacyberpatcher/data-of-1010-pokemons
+
 Overview: This is a dataset of 1017 pokemons that I scraped from pokeapi.co using python. I made a pokedex in flask using this api ( hamzacyberpatcher.pythonanywhere.com ) Although gen 9 has 1021 pokemons but the api only had data about 1017 pokemons as of the time uploading this dataset. This dataset contains the following data:
 
 Pokemon's id
