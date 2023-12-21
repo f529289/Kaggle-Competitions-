@@ -1,3 +1,5 @@
+Kaggle Competition: https://www.kaggle.com/competitions/playground-series-s3e25
+
 Overview
 Welcome to the 2023 Kaggle Playground Series! Thank you to everyone who participated in and contributed to Season 3 Playground Series so far!
 
